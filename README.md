@@ -16,8 +16,8 @@ This repo is dedicated to an efood THA for an Insights Analyst position.
   Code <br />
   This folder contains all the code for the requested analysis in Python 3.7.9  <br />
   Instructions:download the file in a preferable local file  <br />
-               use the pip install -r requirements.txt command to install all the python packages required  <br />
-               run the code  <br />
+              &ensp; use the pip install -r requirements.txt command to install all the python packages required  <br />
+              &ensp; run the code  <br />
   Presentation  <br />
   Here you will find the requested ppt presentation
                   
