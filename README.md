@@ -16,13 +16,16 @@ This repo is dedicated to an efood THA for an Insights Analyst position.
   **Assessment exercise dataset - orders.csv**  <br />
   &ensp; The given dataset <br />
   **customers_segments.py** <br />
-  This folder contains all the code for the requested analysis in Python 3.7.9  <br />
+  &ensp;This folder contains all the code for the requested analysis in Python 3.7.9  <br />
   **Instructions:** <br />
   &ensp;&ensp;download the file in a preferable local file  <br />
   &ensp;&ensp; use the pip install -r requirements.txt command to install all the python packages required  <br />
   &ensp;&ensp; run the code  <br />
+   **requirements.txt**  <br />
+  &ensp;Txt fill will all the python packages used for the code  <br />
   **Presentation.pptx**  <br />
   Here you will find the requested ppt presentation
+
                   
    
 
